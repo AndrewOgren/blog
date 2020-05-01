@@ -1,8 +1,6 @@
-### :gift: Features
+---
+Andrew Ogren
+---
+Hi, I'm Andrew. Welcome to my blog. I created this with the knowledge that likely no one will ever read it. However, if you're interested in what I'm reading, what I'm thinking, or what I'm eating, you've come to the right place. 
 
-**Extensive Plugin Support**
-
-Minos includes plentiful search, comment, sharing and other plugins out of the box. You can choose any of them to enrich your
-blog experience, or build your own plugin easily referring to the existing Minos plugins.
-
-Comment plugins
+I'm currently a software engineer at Grubhub. I studied computer science at Dartmouth College. If you're interested in what I'm up to, connect with me on [LinkedIn](linkedin.com/andrewogren1). Or email me at andrewogren02@gmail.com.

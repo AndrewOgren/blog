@@ -1,9 +1,5 @@
 <% if (!has_config('comment.owner') || !has_config('comment.repo') || !has_config('comment.client_id') ||
 		!has_config('comment.client_secret')) { %>
-<div class="notification is-danger">
-	You forgot to set the <code>owner</code>, <code>repo</code>, <code>client_id</code>, or <code>client_secret</code> for Gitment.
-	Please set it in <code>_config.yml</code>.
-</div>
 <% } else { %>
 <div id="comment-container"></div>
 <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">

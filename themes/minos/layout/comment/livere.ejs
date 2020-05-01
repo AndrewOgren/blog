@@ -1,7 +1,4 @@
 <% if (!has_config('comment.uid')) { %>
-<div class="notification is-danger">
-    You forgot to set the <code>uid</code> for LiveRe. Please set it in <code>_config.yml</code>.
-</div>
 <% } else { %>
 <div id="lv-container" data-id="city" data-uid="<%= get_config('comment.uid') %>">
     <script type="text/javascript">
