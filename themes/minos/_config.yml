@@ -23,8 +23,10 @@ article:
 
 # Navigation bar menu links.
 menu:
+  Reading: /categories/Reading
+  Thinking: /categories/Thinking
+  Eating: /categories/Eating
   Archives: /archives
-  Technology: /categories/Technology
   About: /about
 
 # Search plugin settings.
