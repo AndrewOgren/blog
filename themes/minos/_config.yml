@@ -14,6 +14,7 @@ open_graph:
 # logo:
 #   text: <logo string>
 logo:
+  text: "A.O"
 
 article:
   # Show word count and estimated reading time.
@@ -62,7 +63,7 @@ plugins:
 navbar_links:
   GitHub:
     icon: fab fa-github
-    url: https://github.com/ppoffice/hexo-theme-minos
+    url: https://github.com/AndrewOgren
 
 # Links at the bottom of the page.
 footer_links:
